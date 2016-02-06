@@ -1,6 +1,8 @@
 # ab16WebUygulamaGuvenligi
 Akademik Bilişim 2016 kapsamındaki Web Uygulama Güvenliği sunumunda demo yaptığım sistem.
 
+Sunum : http://www.slideshare.net/Om3rCitak/web-uygulama-gvenlii-akademik-biliim-2016-57851287
+
 
 ## Demoda Kullanılan Payloadlar
 
