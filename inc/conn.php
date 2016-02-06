@@ -1,0 +1,11 @@
+<?php session_start();
+require "ez_sql_core.php";
+require "ez_sql_mysql.php";
+$db_user = "root";
+$db_pass = "";
+$db_name = "bitcs";
+$db_host = "localhost";
+$db = new ezSQL_mysql($db_user, $db_pass, $db_name, $db_host);
+$db->query("SET NAMES 'utf8'");
+$db->query("SET CHARACTER SET 'utf8'");
+$db->query("SET COLLATION_CONNECTION='utf8_turkish_ci'");
